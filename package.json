@@ -44,7 +44,7 @@
     "web-audio-touch-unlock": "^1.0.1"
   },
   "devDependencies": {
-    "@mdi/font": "^3.8.95",
+    "@mdi/font": "^5.9.55",
     "@nuxt/typescript-build": "^1.0.3",
     "@nuxt/typescript-runtime": "^0.4.10",
     "@nuxtjs/eslint-config": "^1.1.2",
