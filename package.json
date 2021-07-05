@@ -48,7 +48,7 @@
     "@nuxt/typescript-build": "^1.0.3",
     "@nuxt/typescript-runtime": "^0.4.10",
     "@nuxtjs/eslint-config": "^1.1.2",
-    "@nuxtjs/vuetify": "^0.5.6",
+    "@nuxtjs/vuetify": "^1.12.1",
     "@types/crypto-js": "^3.1.47",
     "@types/lodash": "^4.14.164",
     "@types/socket.io": "^2.1.12",
