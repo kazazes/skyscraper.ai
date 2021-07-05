@@ -21,7 +21,7 @@
     "crypto-js": "^3.1.9-1",
     "jsplumb": "^2.9.2",
     "logrocket": "^1.0.2",
-    "mapbox-gl": "^0.54.0",
+    "mapbox-gl": "^2.3.1",
     "mapbox-gl-vue": "^1.9.0",
     "moment": "^2.25.1",
     "moment-locales-webpack-plugin": "git://github.com/kazazes/moment-locales-webpack-plugin.git#master",
