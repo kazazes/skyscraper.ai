@@ -34,7 +34,7 @@
     "vue": "^2.6.9",
     "vue-class-component": "^7.1.0",
     "vue-material-design-icons": "^3.3.1",
-    "vue-property-decorator": "^8.2.1",
+    "vue-property-decorator": "^9.1.2",
     "vue-scrollto": "^2.14.0",
     "vuetify": "^1.5.16",
     "vuetify-loader": "^1.2.2",
