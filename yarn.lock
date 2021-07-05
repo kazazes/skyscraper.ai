@@ -1456,6 +1456,11 @@
   resolved "https://registry.yarnpkg.com/@types/crypto-js/-/crypto-js-3.1.47.tgz#36e549dd3f1322742a3a738e7c113ebe48221860"
   integrity sha512-eI6gvpcGHLk3dAuHYnRCAjX+41gMv1nz/VP55wAe5HtmAKDOoPSfr3f6vkMc08ov1S0NsjvUBxDtHHxqQY1LGA==
 
+"@types/debounce@*":
+  version "1.2.0"
+  resolved "https://registry.yarnpkg.com/@types/debounce/-/debounce-1.2.0.tgz#9ee99259f41018c640b3929e1bb32c3dcecdb192"
+  integrity sha512-bWG5wapaWgbss9E238T0R6bfo5Fh3OkeoSt245CM7JJwVwpw6MEBCbIxLq5z8KzsE3uJhzcIuQkyiZmzV3M/Dw==
+
 "@types/engine.io@*":
   version "3.1.3"
   resolved "https://registry.yarnpkg.com/@types/engine.io/-/engine.io-3.1.3.tgz#06a0d4f3674653032ea47a6f3a543b84624c24ca"
@@ -1662,10 +1667,12 @@
   dependencies:
     vue-scrollto "*"
 
-"@types/wavesurfer.js@^3.3.2":
-  version "3.3.2"
-  resolved "https://registry.yarnpkg.com/@types/wavesurfer.js/-/wavesurfer.js-3.3.2.tgz#e916456691586b07004f40d56c22dc7138509eae"
-  integrity sha512-bujQxJR+2TDXe5hc2kG36n38rJtdTbCafQddWaNJwgdNDVqMVxCCKAFYRQWq1aXnN/h9BTHLIVwi4gM8IwRt5A==
+"@types/wavesurfer.js@^5.0.2":
+  version "5.0.2"
+  resolved "https://registry.yarnpkg.com/@types/wavesurfer.js/-/wavesurfer.js-5.0.2.tgz#9285a3ddcc96501493e0e301ed47daa14b049776"
+  integrity sha512-6SOscK+XxUgBeT9E/GmW1pNaayyrM/zRNc4elQ+GJ1y11K9PLwWr2JAP0C40atewL2b+4VIzXrD23zkQC/4umA==
+  dependencies:
+    "@types/debounce" "*"
 
 "@types/webpack-bundle-analyzer@^3.8.0":
   version "3.8.0"
