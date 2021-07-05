@@ -18,7 +18,7 @@
     "@nuxtjs/pwa": "^3.0.0-beta.16",
     "axios": "^0.18.1",
     "cross-env": "^5.2.0",
-    "crypto-js": "^3.1.9-1",
+    "crypto-js": "^4.0.0",
     "jsplumb": "^2.9.2",
     "logrocket": "^1.0.2",
     "mapbox-gl": "^0.54.0",
