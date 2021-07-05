@@ -17,7 +17,7 @@
     "@nuxtjs/google-tag-manager": "^2.2.1",
     "@nuxtjs/pwa": "^3.0.0-beta.16",
     "axios": "^0.18.1",
-    "cross-env": "^5.2.0",
+    "cross-env": "^7.0.3",
     "crypto-js": "^3.1.9-1",
     "jsplumb": "^2.9.2",
     "logrocket": "^1.0.2",
