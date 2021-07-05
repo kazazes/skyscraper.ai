@@ -22,7 +22,7 @@
     "jsplumb": "^2.9.2",
     "logrocket": "^1.0.2",
     "mapbox-gl": "^0.54.0",
-    "mapbox-gl-vue": "^1.9.0",
+    "mapbox-gl-vue": "^2.0.4",
     "moment": "^2.25.1",
     "moment-locales-webpack-plugin": "git://github.com/kazazes/moment-locales-webpack-plugin.git#master",
     "nuxt": "^2.13.2",
